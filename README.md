@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quake Report App
 ===================================
 
@@ -50,3 +51,8 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+||||||| merged common ancestors
+=======
+# QuakeApp
+earthquake app to practice json 
+>>>>>>> c6a0a43f496f437a9bb315fdbb9a2ef445bd047b
